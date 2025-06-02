@@ -1,18 +1,19 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Harry Kang",
+      "titles": [ "Front-end Developer", "Full-Stack Developer", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/EdiBulb",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/qudgns24/",
           "class": "fab fa-instagram"
         }
+        
       ],
       "image": "myProfile.jpg"
     },
